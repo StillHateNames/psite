@@ -5,5 +5,5 @@ Test
 
 /(/int_0^1 udx /)
 
-/[ /int_0^1 udx \]
+/[ \int_0^1 udx \]
 
